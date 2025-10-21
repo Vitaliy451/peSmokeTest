@@ -12,7 +12,10 @@
       "entityType" : "CUSTOMER",
       "id" : "13814000-1dd2-11b2-8080-808080808080"
     },
-    "externalId" : null,
+    "externalId" : {
+      "entityType" : "ASSET",
+      "id" : "6aa0ccf0-ae82-11f0-8b1a-d1f8dd33e5a9"
+    },
     "id" : {
       "entityType" : "ASSET",
       "id" : "6aa0ccf0-ae82-11f0-8b1a-d1f8dd33e5a9"
@@ -22,6 +25,7 @@
     "ownerId" : null,
     "type" : "default"
   },
+  "relations" : [ ],
   "attributes" : {
     "SERVER_SCOPE" : [ ]
   },
