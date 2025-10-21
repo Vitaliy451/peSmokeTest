@@ -20,7 +20,7 @@
     },
     "deviceProfileId" : {
       "entityType" : "DEVICE_PROFILE",
-      "id" : "9e225b20-4613-11f0-a2f1-bb042bd3d5dc"
+      "id" : "9bc9fdc0-4838-11f0-9796-0d789fd1d250"
     },
     "externalId" : null,
     "firmwareId" : null,
@@ -32,7 +32,7 @@
     "name" : "SecondSomethingDEvice",
     "ownerId" : null,
     "softwareId" : null,
-    "type" : "AM102"
+    "type" : "DevProf"
   },
   "credentials" : {
     "credentialsId" : "u4emU4tAcsBLtuvTdvPV",
@@ -40,7 +40,23 @@
     "credentialsValue" : null
   },
   "attributes" : {
-    "SERVER_SCOPE" : [ ],
+    "SERVER_SCOPE" : [ {
+      "booleanValue" : false,
+      "doubleValue" : null,
+      "jsonValue" : null,
+      "key" : "active",
+      "lastUpdateTs" : 1761053720606,
+      "longValue" : null,
+      "strValue" : null
+    }, {
+      "booleanValue" : null,
+      "doubleValue" : null,
+      "jsonValue" : null,
+      "key" : "inactivityAlarmTime",
+      "lastUpdateTs" : 1761053720598,
+      "longValue" : 1761053720597,
+      "strValue" : null
+    } ],
     "SHARED_SCOPE" : [ ]
   },
   "calculatedFields" : [ ]
