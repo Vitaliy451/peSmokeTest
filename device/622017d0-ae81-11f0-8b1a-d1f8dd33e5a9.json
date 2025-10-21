@@ -1,0 +1,47 @@
+{
+  "entityType" : "DEVICE",
+  "entity" : {
+    "additionalInfo" : {
+      "gateway" : false,
+      "overwriteActivityTime" : false,
+      "description" : "Curabitur feugiat purus nec massa egestas, a sagittis magna imperdiet. Pellentesque eu eros a nisl ultrices posuere at in purus. Nulla tincidunt diam lectus. Phasellus ac tempus mi, sed dignissim est."
+    },
+    "customerId" : {
+      "entityType" : "CUSTOMER",
+      "id" : "13814000-1dd2-11b2-8080-808080808080"
+    },
+    "deviceData" : {
+      "configuration" : {
+        "type" : "DEFAULT"
+      },
+      "transportConfiguration" : {
+        "type" : "DEFAULT"
+      }
+    },
+    "deviceProfileId" : {
+      "entityType" : "DEVICE_PROFILE",
+      "id" : "9e225b20-4613-11f0-a2f1-bb042bd3d5dc"
+    },
+    "externalId" : null,
+    "firmwareId" : null,
+    "id" : {
+      "entityType" : "DEVICE",
+      "id" : "622017d0-ae81-11f0-8b1a-d1f8dd33e5a9"
+    },
+    "label" : "SecondSomethingDEvice",
+    "name" : "SecondSomethingDEvice",
+    "ownerId" : null,
+    "softwareId" : null,
+    "type" : "AM102"
+  },
+  "credentials" : {
+    "credentialsId" : "u4emU4tAcsBLtuvTdvPV",
+    "credentialsType" : "ACCESS_TOKEN",
+    "credentialsValue" : null
+  },
+  "attributes" : {
+    "SERVER_SCOPE" : [ ],
+    "SHARED_SCOPE" : [ ]
+  },
+  "calculatedFields" : [ ]
+}
